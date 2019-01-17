@@ -1,1 +1,2 @@
 This is some text i the text file
+and somre more text
